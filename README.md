@@ -54,5 +54,3 @@ for example, you have an editor class with different buttons like copy, paste, c
 for example, a shape class and its children are rectangular, circle, … and you want to know their coordination and their areas.
 
 (My reference is [Here](https://refactoring.guru/design-patterns/python/).)
-
-I'll be glad to see your issues here.
