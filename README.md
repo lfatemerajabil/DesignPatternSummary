@@ -1,5 +1,6 @@
 # DesignPatternSummary
-`*patterns are not algorithms because they are different in two different problems and the patterns don’t give exact order of complexity and it is up to you.*`
+
+Definition : *`patterns are not algorithms because they are different in two different problems and the patterns don’t give exact order of complexity and it is up to you.`*
 
 ## The parts of a pattern:
 - intent
