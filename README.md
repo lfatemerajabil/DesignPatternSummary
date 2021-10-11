@@ -1,5 +1,6 @@
 # DesignPatternSummary
-*patterns are not algorithms because they are different in two different problems and the patterns don’t give exact order of complexity and it is up to you.*
+`*patterns are not algorithms because they are different in two different problems and the patterns don’t give exact order of complexity and it is up to you.*`
+
 ## The parts of a pattern:
 - intent
 - motivation
@@ -8,10 +9,12 @@
 - applicability
 - implementation
 - relations with other patterns
+
 *3 types of patterns based on intent:*
 - creational
 - structural
 - behavioral
+
 ## Creational:
 1. factory method: we want to create some objects. so we use two classes as creator and product and subclasses for them.
 
@@ -49,4 +52,5 @@ for example, you have an editor class with different buttons like copy, paste, c
 5. Visitor: when you want to perform an operation for your complex object that has some elements. so you must have your complex object class and its subclasses and a visitor class related to your subclasses by some methods and you have more than one visitor so you have some subclasses for your visitor class.
 for example, a shape class and its children are rectangular, circle, … and you want to know their coordination and their areas.
 
-(My reference is [Here](https://refactoring.guru/design-patterns/python/)
+(My reference is [Here])(https://refactoring.guru/design-patterns/python/)
+Share your comment about this repo
