@@ -53,5 +53,6 @@ for example, you have an editor class with different buttons like copy, paste, c
 5. Visitor: when you want to perform an operation for your complex object that has some elements. so you must have your complex object class and its subclasses and a visitor class related to your subclasses by some methods and you have more than one visitor so you have some subclasses for your visitor class.
 for example, a shape class and its children are rectangular, circle, … and you want to know their coordination and their areas.
 
-(My reference is [Here])(https://refactoring.guru/design-patterns/python/)
-Share your comment about this repo
+(My reference is [Here])(https://refactoring.guru/design-patterns/python/).
+
+Thank you for sharing your comments.
